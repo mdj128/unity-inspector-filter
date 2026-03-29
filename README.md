@@ -18,6 +18,10 @@ Add the package as a local package from Unity's Package Manager, or reference th
 "com.budorf.unityinspectorfilter": "file:../My_Packages/unity-inspector-filter"
 ```
 
+## Screenshot
+
+![Inspector Filter Screenshot](image.png)
+
 ## Current behavior
 
 - Works as an editor-only UPM package.
