@@ -12,10 +12,10 @@ When you type a query, the package scans the current selection's serialized prop
 
 ## Installation
 
-Add the package as a local package from Unity's Package Manager, or reference the folder from a project manifest:
+Reference the package from your Unity project manifest:
 
 ```json
-"com.budorf.unityinspectorfilter": "file:../My_Packages/unity-inspector-filter"
+"com.budorf.unityinspectorfilter": "https://github.com/mdj128/unity-inspector-filter.git"
 ```
 
 ## Screenshot
