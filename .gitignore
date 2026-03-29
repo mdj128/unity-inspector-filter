@@ -1,0 +1,29 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vs/
+.vscode/
+.idea/
+
+# C# / IDE outputs
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+obj/
+Temp/
+
+# Unity-generated folders if this package is opened directly
+Library/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# Local scratch assets
+image.png
+image.png.meta
